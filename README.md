@@ -3,7 +3,7 @@
 <p align="center"><h4>
  $\color[RGB]{168,109,156} Team Number - PNT2022TMID25935 $</h4></p></div>
 <div>
- <h2> TEAM Members </h2></div>
+ <h2> Team Members </h2></div>
 
     1. Venkat K          [TL]  - 211519104179
     
@@ -14,10 +14,7 @@
     4. Naveen P          [TM3] - 211519104095
 
 <div>
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  
-</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
+ <h2>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
         ⦿ People can perceive body and gesture based communication without any problem. This is conceivable because of the mix of vision
     what's more, synaptic collaborations that were formed along mental health . To recreate this ability in PCs,
