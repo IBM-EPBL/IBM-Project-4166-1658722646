@@ -1,11 +1,11 @@
-# A Gesture-Based Tool For Sterile Browsing Of Radiology Images<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="40" height="40">
-<div>
+# A Gesture-Based Tool For Sterile Browsing Of Radiology Images
+
 <p align="center"><h4>
  $\color[RGB]{168,109,156} Team Number - PNT2022TMID25935 $</h4></p></div>
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+ 
 </picture>$\color[RGB]{168,109,156} TEAM:$</h2></div>
 
     1. Venkat K          [TL]  - 211519104179
@@ -19,7 +19,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+  
 </picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
         ⦿ People can perceive body and gesture based communication without any problem. This is conceivable because of the mix of vision
@@ -35,7 +35,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+  
 </picture>$\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$</h2></div>
 **By the end of this project you will**
 
@@ -50,7 +50,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+  
 </picture> $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$</h2></div>
 
        ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
