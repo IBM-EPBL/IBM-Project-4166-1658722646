@@ -27,10 +27,7 @@
     On the off chance that the motion predictes is 1, pictures is blurred;2, picture is resized;3,image is rotatedm and so forth.
 
 <div>
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  
-</picture>$\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$</h2></div>
+ <h2>$\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$</h2></div>
 **By the end of this project you will**
 
     ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
@@ -42,10 +39,7 @@
     ➼ Know how to build a web application using Flask framework.
     
 <div>
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  
-</picture> $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$</h2></div>
+ <h2> $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$</h2></div>
 
        ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
       different hand gestures, like showing numbers with fngers as 0,1,2,3,4,5. Then we made a web portal
